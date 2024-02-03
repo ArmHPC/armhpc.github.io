@@ -1,7 +1,10 @@
 <div class="row">
   {{#collaborators}}
-  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-  <b>{{degree}} {{name}} </b>, since {{from}} {{#to}}to {{to}}{{/to}}
-  </div>
+    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12" style="height:150pt;padding: 10pt">
+      <a href="{{url}}" target="_blank">
+		<img style="height:72pt;padding: 2pt" src="{{logo}}">
+	  </a>
+      <p>{{name}}</p>
+    </div>
   {{/collaborators}}
 </div>

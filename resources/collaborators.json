@@ -1,34 +1,36 @@
 {
   "collaborators": [
     {
-      "name": "Dr. Aram Kocharyan, Resource management optimization",
-      "from": "2016",
-      "to": "2020"
+      "name": "Institut de Recherche en Informatique de Toulouse, France",
+      "logo": "img/collaborators/irit.jfif",
+      "url": "https://www.irit.fr/"
     },
     {
-      "name": "Dr. Aram Knyazyan, Astroinformatics",
-      "from": "2018",
-      "to": "2023"
+      "name": "King's College London",
+      "logo": "img/collaborators/kings.png",
+      "url": "https://www.kcl.ac.uk/"
     },
     {
-      "name": "Dr. Albert Saribekyan, Modelling",
-      "from": "2010",
-      "to": "2014"
+      "name": " Poznan Supercomputing and Networking Center",
+      "logo": "img/collaborators/poznan.jpg",
+      "url": "https://www.psnc.pl/"
     },
     {
-      "name": "Mrs. Anna Shanazaryan, Engineer, in data modelling",
-      "from": "2012",
-      "to": "2016"
+      "name": "enviroSPACE laboratory, University of Geneva, Switzerland",
+      "logo": "img/collaborators/geneva.png",
+      "url": "https://www.unige.ch/envirospace/"
     },
     {
-      "name": "Mr. Arthur Lalayan, Virtualization and resource management",
-      "from": "2015",
-      "to": "2018"
+      "name": "ETH Zurich",
+      "logo": "img/collaborators/eth.jfif",
+      "url": "https://ethz.ch/en.html"
     },
     {
-      "name": "Mrs. Anush Hakobyan, scientific computing",
-      "from": "2013",
-      "to": "2016"
+      "name": "GRNET – National Infrastructures for Research and Technology, Greece",
+      "logo": "img/collaborators/grnet.png",
+      "url": "https://grnet.gr/en/"
     }
   ]
 }
+
+

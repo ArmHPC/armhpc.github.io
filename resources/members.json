@@ -4,7 +4,7 @@
       "degree": "Dr.",
       "name": "Hrachya",
       "surname": "Astsatryan",
-      "photo": "img/people/HA.png",
+      "photo": "img/members/HA.png",
       "home": "https://orcid.org/0000-0001-8872-6620",
       "role": "Head of the Center"
     },
@@ -12,7 +12,7 @@
       "degree": "Mr.",
       "name": "Wahi",
       "surname": "Narsisian",
-      "photo": "img/people/wahi.jpg",
+      "photo": "img/members/wahi.jpg",
       "home": "https://www.linkedin.com/in/wahi-narsisian-a9402512b/",
       "role": "Cloud computing"
     },
@@ -20,7 +20,7 @@
       "degree": "Dr.",
       "name": "Hayk",
       "surname": "Grigoryan",
-      "photo": "img/people/hayk.jpg",
+      "photo": "img/members/hayk.jpg",
       "home": "https://www.researchgate.net/profile/Hayk-Grigoryan",
       "role": "Data visualization and modelling"
     },
@@ -28,7 +28,7 @@
       "degree": "Dr.",
       "name": "Arthur",
       "surname": "Lalayan",
-      "photo": "img/people/Arthur.jpg",
+      "photo": "img/members/Arthur.jpg",
       "home": "https://orcid.org/0000-0001-6695-3697",
       "role": "Earth Observations and parallel processing"
     },
@@ -36,7 +36,7 @@
       "degree": "Dr.",
       "name": "Emil",
       "surname": "Gazazyan",
-      "photo": "img/people/emil.png",
+      "photo": "img/members/emil.png",
       "home": "https://orcid.org/0000-0002-4259-1721",
       "role": "Quantum computing"
     },
@@ -44,7 +44,7 @@
       "degree": "Dr.",
       "name": "Hrachya",
       "surname": "Ishkanyan",
-      "photo": "img/people/hrachya_ishkhanyan.jpg",
+      "photo": "img/members/hrachya_ishkhanyan.jpg",
       "home": "https://orcid.org/0000-0001-7072-8337",
       "role": "Bioinformatics and simulations"
     },
@@ -52,7 +52,7 @@
       "degree": "Mrs.",
       "name": "Rita",
       "surname": "Abrahamyan",
-      "photo": "img/people/rita.jpg",
+      "photo": "img/members/rita.jpg",
       "home": "",
       "role": "Data analytics and weather prediction"
     },
@@ -60,7 +60,7 @@
       "degree": "Ph.D student",
       "name": "Harutyun",
       "surname": "Umrshatyan",
-      "photo": "img/people/harutyun.jpg",
+      "photo": "img/members/harutyun.jpg",
       "home": "https://www.linkedin.com/in/harutyun-umrshatyan-b57b8b112/",
       "role": "Memory management, RDMA"
     },
@@ -68,7 +68,7 @@
       "degree": "Ph.D student",
       "name": "Hovhannes",
       "surname": "Minasyan",
-      "photo": "img/people/hovhannes.jpg",
+      "photo": "img/members/hovhannes.jpg",
       "home": "https://www.linkedin.com/in/hovhannes-min/",
       "role": "Memory management, RDMA"
     },
@@ -76,7 +76,7 @@
       "degree": "Ph.D student",
       "name": "Eliza",
       "surname": "Gyulgyulyan",
-      "photo": "img/people/eliza.jpg",
+      "photo": "img/members/eliza.jpg",
       "home": "https://sci.academia.edu/ElizaGyulgyulyan",
       "role": "Data quality"
     },
@@ -84,7 +84,7 @@
       "degree": "Ph.D student",
       "name": "Edita",
       "surname": "Gichunts",
-      "photo": "img/people/edita.jpg",
+      "photo": "img/members/edita.jpg",
       "home": "",
       "role": "Scientific computing and linear algebra"
     }

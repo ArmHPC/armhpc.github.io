@@ -1,0 +1,34 @@
+{
+  "alumni": [
+    {
+      "name": "Dr. Aram Kocharyan, Resource management optimization",
+      "from": "2016",
+      "to": "2020"
+    },
+    {
+      "name": "Dr. Aram Knyazyan, Astroinformatics",
+      "from": "2018",
+      "to": "2023"
+    },
+    {
+      "name": "Dr. Albert Saribekyan, Modelling",
+      "from": "2010",
+      "to": "2014"
+    },
+    {
+      "name": "Mrs. Anna Shanazaryan, Engineer, in data modelling",
+      "from": "2012",
+      "to": "2016"
+    },
+    {
+      "name": "Mr. Arthur Lalayan, Virtualization and resource management",
+      "from": "2015",
+      "to": "2018"
+    },
+    {
+      "name": "Mrs. Anush Hakobyan, scientific computing",
+      "from": "2013",
+      "to": "2016"
+    }
+  ]
+}

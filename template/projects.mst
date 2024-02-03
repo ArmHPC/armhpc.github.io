@@ -1,0 +1,10 @@
+<div class="row">
+  {{#projects}}
+    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12" style="height:150pt;padding-bottom: 10pt; margin-bottom: 100pt">
+    <p>{{abbreviation}}</p>
+    <p>{{number}}</p>
+	<img style="height:72pt;padding: 2pt" src="{{logo}}">
+    <p>{{name}}</p>
+    </div>
+  {{/projects}}
+</div>

@@ -1,5 +1,7 @@
 (function () {
     loadPeopleFrom();
+    loadProjectsFrom();
+    loadAlumniFrom();
     loadCollaboratorsFrom();
 })();
 
@@ -12,11 +14,20 @@ function loadPeopleFrom() {
     });
 }
 
+function loadProjectsFrom() {
+    $.getJSON('resources/projects.json', function (view) {
+        render('#projects-content', 'template/projects.mst', view);
+    });
+}
+
+function loadAlumniFrom() {
+    $.getJSON('resources/alumni.json', function (view) {
+        render("#alumni-content", 'template/alumni.mst', view);
+    });
+}
+
 function loadCollaboratorsFrom() {
     $.getJSON('resources/collaborators.json', function (view) {
-        view.SURNAME = function () {
-            return this.surname.toUpperCase();
-        };
         render("#collaborators-content", 'template/collaborators.mst', view);
     });
 }

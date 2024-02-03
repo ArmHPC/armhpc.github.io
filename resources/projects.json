@@ -1,0 +1,122 @@
+{
+  "projects": [
+    {
+      "abbreviation": "NI4OS-Europe",
+      "name": "National Initiatives for Open Science in Europe",
+      "logo": "img/projects/ni4os.jpg",
+      "number": "Nr. 857645, 2019 – 2022"
+    },
+    {
+      "abbreviation": "Fabspace 2.0",
+      "name": "A Platform for Application and Service Development based on Earth Observation Data",
+      "logo": "img/projects/fabspace.png",
+      "number": "Nr. 693210, 2016 – 2019"
+    },
+    {
+      "abbreviation": "RDA Europe",
+      "name": "Persistent Identifier Services for the life science community in Armenia",
+      "logo": "img/projects/rda.jpg",
+      "number": "Nr. 653194, 2016 – 2017"
+    },
+    {
+      "abbreviation": "VI-SEEM",
+      "name": "VRE for regional Interdisciplinary communities in Southeast Europe and the Eastern Mediterranean",
+      "logo": "img/projects/viseem.jpg",
+      "number": "Nr. 675121, 2015 – 2018"
+    },
+    {
+      "abbreviation": "GN5/4-1,2,3/2020",
+      "name": "GÉANT Research and Education Networking",
+      "logo": "img/projects/geant.jpg",
+      "number": "Nr. 731122, 2014 – 2023"
+    },
+    {
+      "abbreviation": "CLEANFOREST",
+      "name": "Joint effects of Climate Extremes and Atmospheric deposition onEuropean",
+      "logo": "img/projects/cleanforest.png",
+      "number": "Nr. CA21138, 2022-2024"
+    },
+    {
+      "abbreviation": "ROAR-NET",
+      "name": "Randomised Optimisation Algorithms Research Network",
+      "logo": "img/projects/cost.jfif",
+      "number": "Nr. CA22137, 2023-2027"
+    },
+    {
+      "abbreviation": "PROBE",
+      "name": "PROfiling the atmospheric Boundary layer at European scale",
+      "logo": "img/projects/cost.jfif",
+      "number": "CA18235, 2019 – 2021"
+    },
+    {
+      "abbreviation": "DAMOCLES",
+      "name": "Understanding and modeling compound climate and weather events",
+      "logo": "img/projects/cost.jfif",
+      "number": "Nr. CA17109, 2018 – 2022"
+    },
+    {
+      "abbreviation": "NESUS",
+      "name": "Network for Sustainable Ultrascale Computing",
+      "logo": "img/projects/nesus.png",
+      "number": "Nr. IC1305 2014 – 2017"
+    },
+    {
+      "abbreviation": "KPI4HE",
+      "name": "Establishment of National framework of Key Performance Indicators for good governance and quality towards inclusive, digital and green oriented higher education in Armenia",
+      "logo": "img/projects/kpi4he.png",
+      "number": "Nr. 101128552 2024-2026"
+    },
+    {
+      "abbreviation": "ARMDOCT",
+      "name": "Reforming Doctoral Education in Armenia in line with Needs of Academia, Industry and Current EU Practices",
+      "logo": "img/projects/armdoct.jfif",
+      "number": "Nr. 609850-EPP-1-2019-1-AM-EPPKA2-CBHE-SP 2020-2023"
+    },
+    {
+      "abbreviation": "ALL4R&D",
+      "name": "Promoting Academia-Industry Alliances for R&D Through Collaborative and Open Innovation Platform",
+      "logo": "img/projects/armdoct.jfif",
+      "number": "598719-EPP-1-2018-1-MK-EPPKA2-CBHE-JP 2018-2022"
+    },
+    {
+      "abbreviation": "The Cyprus Institute",
+      "name": "Computation-based Science and Technology Research Center",
+      "logo": "img/projects/cyprus.jfif",
+      "number": "2024-2026"
+    },
+    {
+      "abbreviation": "UKIM",
+      "name": "Cyril and Methodius University, Skopje, Republic of North Macedonia",
+      "logo": "img/projects/ukim.jfif",
+      "number": "2023-2025"
+    },
+    {
+      "abbreviation": "UGR",
+      "name": "University of Granada",
+      "logo": "img/projects/UGR-Symbol.png",
+      "number": "2021-2023"
+    },
+    {
+      "abbreviation": "UPS",
+      "name": "University Paul Sabatier, Toulouse, France",
+      "logo": "img/projects/ups.png",
+      "number": "2017-1-FR01-KA107-036342, 2016-2018"
+    },
+    {
+      "abbreviation": "ADC4SD",
+      "name": "Supporting Armenia in Building the Armenian Data Cube",
+      "logo": "img/projects/adc4sd.webp",
+      "number": "2018 – 2021"
+    },
+    {
+      "abbreviation": "ARPEGEO",
+      "name": "Deploying Armenian distributed Processing capacities for Environmental GEOspatial data",
+      "logo": "img/projects/adc4sd.webp",
+      "number": "2011 – 2013"
+    }
+  ]
+}
+
+
+
+
