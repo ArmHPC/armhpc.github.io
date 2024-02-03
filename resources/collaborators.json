@@ -2,7 +2,7 @@
   "collaborators": [
     {
       "name": "Institut de Recherche en Informatique de Toulouse, France",
-      "logo": "img/collaborators/irit.jfif",
+      "logo": "img/collaborators/irit.png",
       "url": "https://www.irit.fr/"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "name": " Poznan Supercomputing and Networking Center",
-      "logo": "img/collaborators/poznan.jpg",
+      "logo": "img/collaborators/poznan.png",
       "url": "https://www.psnc.pl/"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "name": "ETH Zurich",
-      "logo": "img/collaborators/eth.jfif",
+      "logo": "img/collaborators/eth.png",
       "url": "https://ethz.ch/en.html"
     },
     {
