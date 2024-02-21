@@ -28,7 +28,7 @@
       "degree": "Dr.",
       "name": "Arthur",
       "surname": "Lalayan",
-      "photo": "img/members/Arthur.jpg",
+      "photo": "img/members/AL.jpg",
       "home": "https://orcid.org/0000-0001-6695-3697",
       "role": "Earth Observations and parallel processing"
     },
@@ -71,6 +71,14 @@
       "photo": "img/members/hovhannes.jpg",
       "home": "https://www.linkedin.com/in/hovhannes-min/",
       "role": "Memory management, RDMA"
+    },
+    {
+      "degree": "Ph.D student",
+      "name": "Davit",
+      "surname": "Petrosyan",
+      "photo": "img/members/davit.jpg",
+      "home": "https://orcid.org/0009-0007-4109-9974",
+      "role": "Cloud and Serverless Computation"
     },
     {
       "degree": "Ph.D student",
