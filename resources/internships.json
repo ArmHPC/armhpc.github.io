@@ -1,7 +1,9 @@
 {
   "internships": [
     {
-      "desc": "Gabriel Gerard, Master Student of Computer Science for Aerospace, Industrie Spatiale, Université Paul Sabatier Toulouse III, Parallel simulations and modeling of astronomical spectra and images"
+      "name": "Gabriel Gerard",
+      "desc": "Master Student of Computer Science for Aerospace, Industrie Spatiale, Université Paul Sabatier Toulouse III, Parallel simulations and modeling of astronomical spectra and images",
+      "url": "https://www.linkedin.com/in/gabriel-g%C3%A9rard/"
     }
   ]
 }
