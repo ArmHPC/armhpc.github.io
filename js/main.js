@@ -2,6 +2,7 @@
     loadPeopleFrom();
     loadProjectsFrom();
     loadAlumniFrom();
+    loadInternships();
     loadCollaboratorsFrom();
 })();
 
@@ -23,6 +24,12 @@ function loadProjectsFrom() {
 function loadAlumniFrom() {
     $.getJSON('resources/alumni.json', function (view) {
         render("#alumni-content", 'template/alumni.mst', view);
+    });
+}
+
+function loadInternships() {
+    $.getJSON('resources/internships.json', function (view) {
+        render("#internships-content", 'template/internships.mst', view);
     });
 }
 
