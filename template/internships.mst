@@ -4,7 +4,11 @@
   <a href="{{url}}" target="_blank">
   		<b>{{name}}</b>
   </a>
-   <b>, {{desc}} </b>
+   <b>, {{desc}}, </b>
+  <a href="{{university_url}}" target="_blank">
+  		<b>{{university}}</b>
+  </a>
+   <b>, {{project}}, {{period}} </b>
   </div>
   {{/internships}}
 </div>
