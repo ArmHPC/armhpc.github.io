@@ -95,6 +95,15 @@
       "photo": "img/members/edita.jpg",
       "home": "",
       "role": "Scientific computing and linear algebra"
+    },
+    {
+      "degree": "Ph.D student",
+      "name": "Hovhannes",
+      "surname": "Baghdasaryan",
+      "photo": "img/members/Hovhannes_Baghdasaryan.jpg",
+      "home": "",
+      "role": "Distributed file systems"
     }
+
   ]
 }
