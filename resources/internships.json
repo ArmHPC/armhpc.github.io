@@ -8,6 +8,33 @@
       "university_url": "https://www.univ-tlse3.fr/",
       "url": "https://www.linkedin.com/in/gabriel-g%C3%A9rard/",
       "period": "April-June 2024"
+    },
+    {
+      "name": "Kilian Caillot",
+      "desc": "Master Student of Computer Science for Aerospace, Industrie Spatiale",
+      "project": "Parallel simulations and modeling of astronomical spectra and images",
+      "university": "Université Paul Sabatier Toulouse III",
+      "university_url": "https://www.univ-tlse3.fr/",
+      "url": "https://www.linkedin.com/in/kilian-caillot-33963b288/",
+      "period": "June-August 2024"
+    },
+    {
+      "name": "Guillaume Edouard",
+      "desc": "Master Student of Computer Science for Aerospace, Industrie Spatiale",
+      "project": "Monte Carlo Simulation of a Lambda System",
+      "university": "Université Paul Sabatier Toulouse III",
+      "university_url": "https://www.univ-tlse3.fr/",
+      "url": "https://www.linkedin.com/in/guillaume-edouard-00458a30b/",
+      "period": "June-August 2024"
+    },
+    {
+      "name": "Lucas Bihannic",
+      "desc": "Master Student of Computer Science for Aerospace, Industrie Spatiale",
+      "project": "Directed acyclic graph approaches for Earth Observations",
+      "university": "Université Paul Sabatier Toulouse III",
+      "university_url": "https://www.univ-tlse3.fr/",
+      "url": "https://www.linkedin.com/in/lucas-bihannic/",
+      "period": "July-September 2024"
     }
   ]
 }
