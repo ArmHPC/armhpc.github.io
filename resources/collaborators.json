@@ -29,6 +29,11 @@
       "name": "GRNET – National Infrastructures for Research and Technology, Greece",
       "logo": "img/collaborators/grnet.png",
       "url": "https://grnet.gr/en/"
+    },
+    {
+      "name": "University of California at San Diego, USA",
+      "logo": "img/collaborators/ucsd.png",
+      "url": "https://ucsd.edu/"
     }
   ]
 }
