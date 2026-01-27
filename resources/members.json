@@ -58,22 +58,6 @@
     },
     {
       "degree": "Ph.D student",
-      "name": "Harutyun",
-      "surname": "Umrshatyan",
-      "photo": "img/members/harutyun.jpg",
-      "home": "https://www.linkedin.com/in/harutyun-umrshatyan-b57b8b112/",
-      "role": "Memory management, RDMA"
-    },
-    {
-      "degree": "Ph.D student",
-      "name": "Hovhannes",
-      "surname": "Minasyan",
-      "photo": "img/members/hovhannes.jpg",
-      "home": "https://www.linkedin.com/in/hovhannes-min/",
-      "role": "Memory management, RDMA"
-    },
-    {
-      "degree": "Ph.D student",
       "name": "Davit",
       "surname": "Petrosyan",
       "photo": "img/members/davit.jpg",
@@ -103,6 +87,22 @@
       "photo": "img/members/Hovhannes_Baghdasaryan.jpg",
       "home": "",
       "role": "Distributed file systems"
+    },
+    {
+      "degree": "",
+      "name": "Hasmik",
+      "surname": "Hambardzumyan",
+      "photo": "img/members/hasmik.jpg",
+      "home": "http://www.linkedin.com/in/hasmikhambardzumyan",
+      "role": "High-Performance Numerical Solvers"
+    },
+    {
+      "degree": "",
+      "name": "Karen",
+      "surname": "Arzumanyan",
+      "photo": "img/members/karen.jpg",
+      "home": "http://www.linkedin.com/in/karen-arzumanyan-b3484b235",
+      "role": "DevOps, automation and optimization problems"
     }
 
   ]

@@ -1,6 +1,16 @@
 {
   "alumni": [
     {
+      "name": "Ph.D student Hovhannes Minasyan, Memory management, RDMA",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "name": "Ph.D student Harutyun Umrshatyan, Memory management, RDMA",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
       "name": "Dr. Aram Kocharyan, Resource management optimization",
       "from": "2016",
       "to": "2020"
